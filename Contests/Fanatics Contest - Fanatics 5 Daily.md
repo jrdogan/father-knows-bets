@@ -1,0 +1,5 @@
+- Entry Fee: Free to Play
+- What: Choose from a variety of outcomes to build a parlay using today's games. You typically must build a parlay that contains 5 legs.
+- When: Active all year. Participate daily.
+- Where: On the [[Fanatics]] app, access the contest by clicking on the Games button in the footer, and then locate today's game.
+- Why: Receive $5 FanCash if you win all 5 legs of the parlay.

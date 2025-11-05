@@ -39,4 +39,4 @@ FanDuel is the second site that I created a sportsbook account at. In general, i
 ## Rewards System
 None that I know of. The offered odds and promotions are good enough that no rewards system is necessary.
 ## Contests
-- [[FanDuel Contest - F2P The Daily Play|Daily Shuffle]]  - Free to Play (available during MLB and NFL regular seasons)
+- [[FanDuel Contest - F2P The Daily Play|The Daily Play]]  - Free to Play (available during MLB and NFL regular seasons)

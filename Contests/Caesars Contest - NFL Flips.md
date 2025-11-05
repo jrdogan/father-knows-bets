@@ -1,0 +1,5 @@
+- Entry Fee: Free to Play
+- What: Receive one or more random football props each day. Props that win are highlighted green. Props that lose are highlighed red.
+- When: Active during NFL regular season. Participate daily.
+- Where: On [[Caesars]], access the contest by navigating to the My Promos page and selecting Play Now on the NFL Flips promo card.
+- Why: Receive weekly award based on number of successful props accumulated that week. Prizes range from 10-100% Profit Boost token to split of $100,000 bonus bet pool.

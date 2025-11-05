@@ -1,0 +1,5 @@
+- Entry Fee: Free to Play
+- What: Build a weekly parlay using the props that are listed each day. A list of 8 available props are listed, and you may choose whichever one you like best.
+- When: Active during MLB and NFL regular seasons. Participate daily. Each day's props lock at midnight ET.
+- Where: On [[FanDuel]], access the contest by clicking on the F2P Daily Shuffle card on the Promotions page. Alternately, you can access it on the mobile app by tapping the "Free to Play" button in the topmost menu.
+- Why: Receive weekly award based on number of successful props accumulated that week. Prizes range from 30-100% Profit Boost token to a split of $100,000 bonus bet pool.

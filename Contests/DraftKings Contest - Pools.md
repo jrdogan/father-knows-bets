@@ -1,0 +1,5 @@
+- Entry Fee: Varies, but there are usually some free (no cost) pools available
+- What: Make either/or selections based on a variety of sports, games and players. Make more correct selections than other contestants to win money.
+- When: Varies.
+- Where: On [[DraftKings]], access the contest by clicking on the POOLS option in the main menu. Locate a free pool by filtering the pool list by Entry Fee - Low to High.
+- Why: Rewards vary, check on the details of the individual pool.

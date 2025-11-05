@@ -1,0 +1,5 @@
+- Entry Fee: Free to Play
+- What: Play a Tic-Tac-Toe game by choosing player props to occupy a 3x3 grid.
+- When: Active all year. Participate weekly.
+- Where: On the [[Fanatics]] app, access the contest by clicking on the Games button in the footer, and then locate this week's contest.
+- Why: If you make 3 correct picks in a row, you will win $5 FanCash. If you get 4 corner picks correct, win $100 FanCash If you pick all 9 picks correctly, you win $100k in cash!

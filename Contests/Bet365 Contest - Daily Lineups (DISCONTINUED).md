@@ -1,0 +1,5 @@
+- Entry Fee: Free to Play
+- What: Daily Lineups page presents various contests. Each contest presents you with a list of players you use to fill your roster without exceeding the salary cap. Build a high scoring roster to win rewards.
+- When: Active every day.
+- Where: On [[Bet365]], access the contest by using the Daily Lineups menu in the site header, or by clicking on the Daily Lineups icon in the subheader on the Sports page.
+- Why: A certain number of contestants in each contest recieve rewards that are either cash (for the very best performances) or bonus bets (for the other top scores). The number of payouts varies by contest.

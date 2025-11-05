@@ -1,0 +1,5 @@
+- Entry Fee: Free to Play
+- What: Receive a random football player to record a touchdown that week. Players that score a TD are green. Players that don't score a TD are red.
+- When: Active during NFL regular season. Participate daily.
+- Where: On [[DraftKings]], access the contest by clicking on the FREE TO PLAY option in the main menu. This is only accessible using the mobile app.
+- Why: Receive weekly award based on number of green players accumulated that week. Prizes range from 5-100% Profit Boost token to split of $25,000 bonus bet pool.

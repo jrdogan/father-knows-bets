@@ -1,0 +1,5 @@
+- Entry Fee: Free to Play
+- What: Pick 6 NFL players to score a touchdown by making a selection from 6 tiers of players (choose 1 player from each tier).
+- When: Active during the NFL football regular season. Participate weekly.
+- Where: On the [[Fanatics]] app, access the contest by clicking on the Games button in the footer, and then locate this week's contest.
+- Why: Receive $250 FanCash if all 6 players score a touchdown.

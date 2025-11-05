@@ -1,0 +1,5 @@
+- Entry Fee: Free to Play
+- What: Play a NYT Connections-style game that is sports themed. Out of the 16 clues presented, form 4 groups of 4 related clues.
+- When: Active all year. Participate daily.
+- Where: On the [[Fanatics]] app, access the contest by clicking on the Games button in the footer, and then locate today's contest.
+- Why: Mostly just for fun, but occasionally there will be a Quad Goals Dash contest that awards $10 FanCash to the first 100 contestants that win.

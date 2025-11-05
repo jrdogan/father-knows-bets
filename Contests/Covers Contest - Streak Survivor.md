@@ -1,0 +1,11 @@
+- Entry Fee: Free to Play
+- What: Try to build the longest win streak you can by making a moneyline or over/under pick from a list of available games across various leagues. If your pick wins, your win streak grows by one. If your pick loses, your win streak count is reset to zero.
+- When: You may only make one pick per day. If you go more than seven days between picks, your win streak resets back to zero.
+- Where: Log in to the [Covers Streak Survivor Page](https://contests.covers.com/survivor) using your Covers account. You can register a new account [here](https://www.covers.com/account/register), but I chose to just link my Google account so I don't have a separate login to keep track of.
+- Why: Build a win streak and receive prizes. Prizes are awarded according to how long your win streak is:
+	- 25 wins: Receive $100,000 in cash!
+	- 21 wins: Receive $25,000 in cash
+	- 17 wins: The first 3 entrants to reach this milestone receive $1,000 in cash
+	- 13 wins: Receive a $30 Amazon gift card
+	- 9 wins: Receive a $20 Amazon gift card
+	- Monthly winner: Build the longest streak during a month and receive $1,000 in cash

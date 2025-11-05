@@ -1,0 +1,5 @@
+- Entry Fee: Free to Play
+- What: Choose from a variety of player props to build an over/under parlay. You must build a parlay that contains 3-10 props.
+- When: Active during NFL regular season. Participate on game days.
+- Where: On [[Bet365]], access the contest by clicking on the Over/Under icon in the subheader on the Sports page.
+- Why: Receive bonus bets if your over/under parly is a winner. Rewards range from $5 to $100.

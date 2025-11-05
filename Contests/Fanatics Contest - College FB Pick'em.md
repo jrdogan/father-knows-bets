@@ -1,0 +1,5 @@
+- Entry Fee: Free to Play
+- What: Pick 10 college football games against the spread.
+- When: Active during the NCAA football regular season. Participate weekly.
+- Where: On the [[Fanatics]] app, access the contest by clicking on the Games button in the footer, and then locate this week's contest.
+- Why: Receive $100 FanCash if you pick all 10 games correctly.

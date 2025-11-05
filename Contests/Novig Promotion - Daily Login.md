@@ -1,0 +1,5 @@
+- Entry Fee: Free to Play
+- What: Log in to the Novig app. Click on the Rewards button in the footer. Navigate to the Daily Login section an opt in to the promotion.
+- When: Log in at least once per day. It isn't known when the login counter resets each day. 
+- Where: Once logged in on the [[Novig]] app, click on the Rewards button in the footer. Your current consecutive login count is displayed in the Daily Login section.
+- Why: If you log in on 5 consecutive days, you receive 1 cash (equivalent to $1). If you log in for 15 consecutive days, you receive 3 cash. If you log in for 25 consecutive days, you receive 6 cash.

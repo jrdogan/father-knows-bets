@@ -8,8 +8,7 @@ These contests should be checked to see if an entry is available each and every 
 - [ ] [[FanDuel Contest - F2P The Daily Play|FanDuel - The Daily Play]] - Play daily during MLB and NFL seasons
 - [ ] [[Fanatics Contest - Fanatics 5 Daily|Fanatics - Fanatics 5 Daily]] - Play every day
 - [ ] [[Bet365 Contest - Over-Under|Bet365 - Over/Under]] - Play most days, it alternates between NFL/NHL
-- [ ] <img src="https://i.postimg.cc/qM487pgY/novig.png" alt="Novig" style="display:inline; height:1em; vertical-align:-0.15em;" />
- [[Novig Promotion - Daily Login|Novig - Daily Login]] - Log in every day
+- [ ] [[Novig Promotion - Daily Login|Novig - Daily Login]] - Log in every day
 - [x] ⚾ [[DraftKings Contest - Big League Draw|DraftKings - Big League Draw]] - Play daily during MLB season [OUT OF SEASON]
 - [x] [[Bet365 Contest - Daily Lineups (DISCONTINUED)|Bet365 - Daily Lineups]] - Play every day [DISCONTINUED! ☹️]
 
